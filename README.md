@@ -27,7 +27,7 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/eclipse-tractusx/ssi-dim-wallet-stub/pull/39) in [eclipse-tractusx/ssi-dim-wallet-stub](https://github.com/eclipse-tractusx/ssi-dim-wallet-stub)
+1. ℹ️ Labeled issue [#92839](https://github.com/anthropics/claude-code/issues/92839) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 <!--END_SECTION:activity-->
 
 ## Contribution Stats
