@@ -27,7 +27,7 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/krunal-chauhan-1705/sre-gitops/pull/4) in [krunal-chauhan-1705/sre-gitops](https://github.com/krunal-chauhan-1705/sre-gitops)
+1. 🎉 Merged PR [#6](https://github.com/krunal-chauhan-1705/sre-gitops/pull/6) in [krunal-chauhan-1705/sre-gitops](https://github.com/krunal-chauhan-1705/sre-gitops)
 <!--END_SECTION:activity-->
 
 ## Contribution Stats
